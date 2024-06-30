@@ -1,4 +1,9 @@
-import time
+
+![Screenshot from 2024-06-30 22-13-13](https://github.com/ferdycuy/skill_forge_week1/assets/115714443/48d3dad6-a2c8-45ce-a982-873de7c3de3b)
+
+
+import time![Screenshot from 2024-06-30 22-12-30](https://github.com/ferdycuy/skill_forge_week1/assets/115714443/18872431-1e6b-4972-8874-9d9cf18a5cb4)
+
 
 class EdgeDefense:
     def __init__(self):
