@@ -7,6 +7,8 @@ class EdgeDefense:
     def detect_ddos(self, traffic_data):
         # Implement detection logic using LSTM-Attention network
         pass
+![Screenshot from 2024-06-30 16-20-25](https://github.com/ferdycuy/skill_forge_week1/assets/115714443/0131805d-8506-4908-a3ab-0ebef3ea604f)
+![Screenshot from 2024-06-30 16-19-34](https://github.com/ferdycuy/skill_forge_week1/assets/115714443/be8d418e-41eb-467c-976b-61fe56eeaf89)
 
     def classify_flows(self, flow_data):
         # Implement classification logic using 1D-CNN model
