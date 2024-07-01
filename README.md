@@ -3,6 +3,7 @@
 
 
 import time![Screenshot from 2024-06-30 22-12-30](https://github.com/ferdycuy/skill_forge_week1/assets/115714443/18872431-1e6b-4972-8874-9d9cf18a5cb4)
+![Screenshot from 2024-07-01 10-24-25](https://github.com/ferdycuy/skill_forge_week1/assets/115714443/b304c343-21bd-4ebe-ae2b-5f834b00b350)
 
 
 class EdgeDefense:
